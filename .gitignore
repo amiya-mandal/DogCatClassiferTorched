@@ -111,3 +111,5 @@ train/
 sampleSubmission.csv
 test1.zip
 train.zip
+test_data.npy
+train_data.npy
